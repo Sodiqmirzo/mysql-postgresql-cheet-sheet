@@ -9,4 +9,3 @@ VALUES('Hibester Food','Avocadostreet 5, Berlin',6.12,TRUE);
 
 INSERT INTO conversations (user_name,employer_name,message)
 VALUES('Sodikmirzo Sattorov','Learning Inc','Hi I like learning!');
---43
