@@ -30,5 +30,3 @@ CREATE TABLE conversations(
     employer_id INT,
     message TEXT NOT NULL
 );
-
--- 50
