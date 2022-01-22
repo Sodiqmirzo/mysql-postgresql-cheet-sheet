@@ -35,3 +35,6 @@ CREATE TABLE conversations(
 
 INSERT INTO users (first_name, last_name,yearly_salary,current_status)
 VALUES ("Sodikmirzo","Sattorov",19000,"self-employed")
+
+INSERT INTO users (first_name, last_name,yearly_salary,current_status)
+VALUES ("Sodikmirzo","Sattorov",19000,"self-employed")
