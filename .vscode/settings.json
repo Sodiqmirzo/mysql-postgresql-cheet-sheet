@@ -4,11 +4,11 @@
       "previewLimit": 50,
       "server": "localhost",
       "port": 5432,
-      "askForPassword": true,
       "driver": "PostgreSQL",
       "name": "postgres1",
-      "database": "talently",
-      "username": "postgres"
+      "database": "online_shop",
+      "username": "postgres",
+      "password": "123456"
     },
     {
       "mysqlOptions": {
@@ -17,11 +17,11 @@
       "previewLimit": 50,
       "server": "localhost",
       "port": 3306,
-      "askForPassword": true,
       "driver": "MySQL",
       "name": "mysql1",
-      "database": "talently",
-      "username": "root"
+      "database": "online_shop",
+      "username": "root",
+      "password": "123"
     }
   ]
 }
